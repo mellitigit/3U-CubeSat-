@@ -254,6 +254,7 @@ xgboost_power_predictor_optimized.pkl
 
 # ✅ **Objective 3: CubeSat Battery Health Prediction Model**
 
+Battery health and thermal prediction for mission failure prevention.
 MOSFET switches power off battery cells that are overheating or overcharging.
 
 ---
