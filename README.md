@@ -442,7 +442,7 @@ Run `rl-cubesat.ipynb`
 
 ---
 
-### ** 4.CubeSat Prototype — Hardware & Cost Breakdown (TND)**
+# ** 4.CubeSat Prototype — Hardware & Cost Breakdown (TND)**
 
 This section summarizes the estimated cost and main components for the CubeSat prototype, including computing, communication, power, mechanical, and sensor subsystems.  
 All prices are approximate and expressed in **Tunisian Dinar (TND)**.
@@ -522,8 +522,6 @@ All prices are approximate and expressed in **Tunisian Dinar (TND)**.
 ---
 
 ### 🔹 Estimated Total Hardware Cost: **≈ 1,600 TND**
-
-> ⚙️ *Note:* Prices are approximate, subject to availability and sourcing. Components are selected for educational prototype use, not flight-grade certification.
 
 
 ---
